@@ -79,7 +79,7 @@ Intellexis - Specialized PDF Text Navigator/
 │ │ ├── logo.png
 │ │ ├── raw_extraction.json
 │ │ └── requirements.txt
-│ ├── VirtualEnvironment/           (you can make your own virtual environment)
+│ ├── VirtualEnvironment/            (you can make your own virtual environment)
 │ ├── embedding_chunks.py
 │ ├── embedding_question.py
 │ ├── extract_and_chunk.py
@@ -89,9 +89,9 @@ Intellexis - Specialized PDF Text Navigator/
 │ ├── prompt_builder.py
 │ └── top_chunks_searcher.py
 ├── website Application/
-│ └── Intellexis - Specialized PDF Text Navigator.exe
+│ └── Intellexis.exe                 (This is the Application)
 ├── LICENSE
-└── README.md                       (you are here)
+└── README.md                        (you are here)
 ```
 
 ---
@@ -111,19 +111,37 @@ Intellexis - Specialized PDF Text Navigator/
    OPENROUTER_MODEL=model_name_that_you_want_to_use
    ```
 
-3. **Extract and chunk the PDF
+3. **Redirecting the Paths** 
+   - Redirect all the paths. **Remove** `Source Code\` from all the paths in any of the files.
+   - While calling the **API key** and **Model**, **replace** this:
+     ```
+     import streamlit as st
+     
+     API_KEY = st.secrets["OPENROUTER_API_KEY"]
+     MODEL_NAME = st.secrets["OPENROUTER_MODEL"]
+     ```
+     with this:
+     ```
+     from dotenv import load_dotenv
+     load_dotenv("Assets/.env")
+
+     API_KEY = os.getenv("OPENROUTER_API_KEY")
+     MODEL_NAME = os.getenv("OPENROUTER_MODEL")
+     ```
+
+4. **Extract and chunk the PDF**
    Run:
    ```
    python extract_and_chunk.py
    ```
 
-4. **Vectorize the chunks**  
+5. **Vectorize the chunks**  
    Run:
    ```
    python embedding_chunks.py
    ```
 
-5. **Launch the App**  
+6. **Launch the App**  
    Option 1:
    ```
    streamlit run main.py
