@@ -165,7 +165,7 @@ def chunk_spans(spans, body_font_key):
     return final_chunks
 
 def main():
-    pdf_path = "Assets/document.pdf"
+    pdf_path = "Source Code/Assets/document.pdf"
     if not os.path.exists(pdf_path):
         raise FileNotFoundError(f"❌ PDF not found at: {pdf_path}")
 
@@ -173,7 +173,7 @@ def main():
     spans = extract_font_spans(pdf_path)
 
     # Step 2: Save raw spans
-    with open("Assets/raw_extraction.json", "w", encoding="utf-8") as f:
+    with open("Source Code/Assets/raw_extraction.json", "w", encoding="utf-8") as f:
         json.dump(spans, f, indent=2, ensure_ascii=False)
     print("💾 Saved to Assets/raw_extraction.json")
 
@@ -184,7 +184,7 @@ def main():
     chunks = chunk_spans(spans, body_font)
 
     # Step 5: Save chunks
-    with open("Assets/chunks.json", "w", encoding="utf-8") as f:
+    with open("Source Code/Assets/chunks.json", "w", encoding="utf-8") as f:
         json.dump(chunks, f, indent=2, ensure_ascii=False)
     print(f"✅ Chunking complete. Total chunks: {len(chunks)}")
 
