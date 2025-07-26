@@ -5,8 +5,8 @@ from tqdm import tqdm
 from sentence_transformers import SentenceTransformer
 
 # Constants
-CHUNKS_FILE = "Assets\chunks.json"
-OUTPUT_FILE = "Assets\embedding_vector_space_chunks.pkl"
+CHUNKS_FILE = "Source Code/Assets\chunks.json"
+OUTPUT_FILE = "Source Code/Assets\embedding_vector_space_chunks.pkl"
 MODEL_NAME = "intfloat/e5-base-v2"
 
 # Load model
