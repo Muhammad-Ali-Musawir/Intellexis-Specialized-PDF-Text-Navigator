@@ -1,11 +1,10 @@
 import os
 import requests
-from dotenv import load_dotenv
+import streamlit as st
 
 # Load API key
-load_dotenv("Assets/.env")
-API_KEY = os.getenv("OPENROUTER_API_KEY")
-MODEL_NAME = os.getenv("OPENROUTER_MODEL")
+API_KEY = st.secrets["OPENROUTER_API_KEY"]
+MODEL_NAME = st.secrets["OPENROUTER_MODEL"]
 
 # OpenRouter endpoint (OpenAI-compatible)
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
