@@ -4,7 +4,7 @@ import numpy as np
 from typing import List, Dict
 
 # Constants
-EMBEDDING_FILE = "Assets/embedding_vector_space_chunks.pkl"
+EMBEDDING_FILE = "Source Code/Assets/embedding_vector_space_chunks.pkl"
 
 
 def cosine_similarity(vec1: List[float], vec2: List[float]) -> float:
