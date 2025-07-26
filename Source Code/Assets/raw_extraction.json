@@ -1,0 +1,1570 @@
+[
+  {
+    "text": "Cybersecurity: A Comprehensive Guide",
+    "font": "Helvetica-Bold",
+    "size": 16.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      146.49000549316406,
+      30.20000648498535,
+      448.7939453125,
+      52.23200607299805
+    ],
+    "color": 0,
+    "page": 1
+  },
+  {
+    "text": "Table of Contents",
+    "font": "Helvetica-Bold",
+    "size": 12.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      89.98001098632812,
+      132.53001403808594,
+      106.5040054321289
+    ],
+    "color": 0,
+    "page": 1
+  },
+  {
+    "text": "1. Introduction to Cybersecurity",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      119.03498840332031,
+      183.4189453125,
+      134.14898681640625
+    ],
+    "color": 0,
+    "page": 1
+  },
+  {
+    "text": "2. History and Evolution",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      147.38502502441406,
+      147.3499755859375,
+      162.4990234375
+    ],
+    "color": 0,
+    "page": 1
+  },
+  {
+    "text": "3. Key Concepts in Cybersecurity",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      175.73500061035156,
+      193.80296325683594,
+      190.8489990234375
+    ],
+    "color": 0,
+    "page": 1
+  },
+  {
+    "text": "4. Types of Cyber Attacks",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      204.0750274658203,
+      157.1289825439453,
+      219.18902587890625
+    ],
+    "color": 0,
+    "page": 1
+  },
+  {
+    "text": "5. Cybersecurity Domains",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      232.4250030517578,
+      157.10699462890625,
+      247.53900146484375
+    ],
+    "color": 0,
+    "page": 1
+  },
+  {
+    "text": "6. Security Architecture",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      260.7650146484375,
+      144.89698791503906,
+      275.8790283203125
+    ],
+    "color": 0,
+    "page": 1
+  },
+  {
+    "text": "7. Case Studies of Major Cyber Attacks",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      289.114990234375,
+      223.1509552001953,
+      304.22900390625
+    ],
+    "color": 0,
+    "page": 1
+  },
+  {
+    "text": "8. Tools and Technologies in Cybersecurity",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      317.46502685546875,
+      242.1039581298828,
+      332.57904052734375
+    ],
+    "color": 0,
+    "page": 1
+  },
+  {
+    "text": "9. Cyber Laws and Ethics",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      345.80499267578125,
+      155.90798950195312,
+      360.91900634765625
+    ],
+    "color": 0,
+    "page": 1
+  },
+  {
+    "text": "10. Industry Certifications",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      374.1549987792969,
+      155.2919921875,
+      389.2690124511719
+    ],
+    "color": 0,
+    "page": 1
+  },
+  {
+    "text": "11. Interview Questions for Chatbot Testing",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      402.5050048828125,
+      242.73094177246094,
+      417.6190185546875
+    ],
+    "color": 0,
+    "page": 1
+  },
+  {
+    "text": "12. Conclusion and Future Trends",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      430.8450012207031,
+      197.48794555664062,
+      445.9590148925781
+    ],
+    "color": 0,
+    "page": 1
+  },
+  {
+    "text": "1. Introduction to Cybersecurity",
+    "font": "Helvetica-Bold",
+    "size": 12.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      33.27999496459961,
+      212.5579833984375,
+      49.803993225097656
+    ],
+    "color": 1973880,
+    "page": 2
+  },
+  {
+    "text": "Cybersecurity refers to the practice of protecting systems, networks, and programs from digital attacks.",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      62.34504318237305,
+      564.093994140625,
+      77.45904541015625
+    ],
+    "color": 0,
+    "page": 2
+  },
+  {
+    "text": "These attacks aim to access, change, or destroy sensitive information, extort money from users, or disrupt",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      90.69502258300781,
+      564.1021728515625,
+      105.80902099609375
+    ],
+    "color": 0,
+    "page": 2
+  },
+  {
+    "text": "normal operations. It plays a critical role in maintaining the confidentiality, integrity, and availability of",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      119.03498840332031,
+      564.1030883789062,
+      134.14898681640625
+    ],
+    "color": 0,
+    "page": 2
+  },
+  {
+    "text": "information systems.",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      147.38502502441406,
+      132.0489959716797,
+      162.4990234375
+    ],
+    "color": 0,
+    "page": 2
+  },
+  {
+    "text": "2. History and Evolution",
+    "font": "Helvetica-Bold",
+    "size": 12.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      203.36001586914062,
+      168.55398559570312,
+      219.88401794433594
+    ],
+    "color": 1973880,
+    "page": 2
+  },
+  {
+    "text": "The concept of cybersecurity dates back to the 1970s with the emergence of the first computer worms and",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      232.4250030517578,
+      564.1022338867188,
+      247.53900146484375
+    ],
+    "color": 0,
+    "page": 2
+  },
+  {
+    "text": "viruses. Over the decades, as computing technology advanced and became more interconnected through the",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      260.7650146484375,
+      564.1032104492188,
+      275.8790283203125
+    ],
+    "color": 0,
+    "page": 2
+  },
+  {
+    "text": "internet, the scope and scale of threats also evolved. This led to the emergence of more advanced security",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      289.114990234375,
+      564.1010131835938,
+      304.22900390625
+    ],
+    "color": 0,
+    "page": 2
+  },
+  {
+    "text": "measures, including firewalls, intrusion detection systems, and now AI-powered defense mechanisms.",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      317.46502685546875,
+      527.5979614257812,
+      332.57904052734375
+    ],
+    "color": 0,
+    "page": 2
+  },
+  {
+    "text": "3. Key Concepts in Cybersecurity",
+    "font": "Helvetica-Bold",
+    "size": 12.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      373.4400329589844,
+      221.91798400878906,
+      389.9640197753906
+    ],
+    "color": 1973880,
+    "page": 2
+  },
+  {
+    "text": "- Confidentiality: Ensuring information is only accessible to those authorized.",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      402.5050048828125,
+      402.2859802246094,
+      417.6190185546875
+    ],
+    "color": 0,
+    "page": 2
+  },
+  {
+    "text": "- Integrity: Protecting information from being altered by unauthorized entities.",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      430.8450012207031,
+      404.1339416503906,
+      445.9590148925781
+    ],
+    "color": 0,
+    "page": 2
+  },
+  {
+    "text": "- Availability: Ensuring reliable access to data and resources.",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      459.19500732421875,
+      327.6949768066406,
+      474.30902099609375
+    ],
+    "color": 0,
+    "page": 2
+  },
+  {
+    "text": "- Authentication and Authorization: Verifying user identity and access rights.",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      487.5450134277344,
+      399.25,
+      502.6590270996094
+    ],
+    "color": 0,
+    "page": 2
+  },
+  {
+    "text": "- Non-repudiation: Ensuring actions or transactions cannot be denied.",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      515.885009765625,
+      369.29693603515625,
+      530.9990234375
+    ],
+    "color": 0,
+    "page": 2
+  },
+  {
+    "text": "- Zero Trust Model: Never trust, always verify-especially for internal access.",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      544.2350463867188,
+      397.9519348144531,
+      559.3490600585938
+    ],
+    "color": 0,
+    "page": 2
+  },
+  {
+    "text": "4. Types of Cyber Attacks",
+    "font": "Helvetica-Bold",
+    "size": 12.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      600.2100219726562,
+      177.9019775390625,
+      616.7340698242188
+    ],
+    "color": 1973880,
+    "page": 2
+  },
+  {
+    "text": "- Malware (Viruses, Worms, Trojans, Ransomware)",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      629.2750244140625,
+      281.1649169921875,
+      644.3890380859375
+    ],
+    "color": 0,
+    "page": 2
+  },
+  {
+    "text": "- Phishing and Spear Phishing",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      657.625,
+      179.15097045898438,
+      672.739013671875
+    ],
+    "color": 0,
+    "page": 2
+  },
+  {
+    "text": "- SQL Injection",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      685.9650268554688,
+      103.9439926147461,
+      701.0790405273438
+    ],
+    "color": 0,
+    "page": 2
+  },
+  {
+    "text": "- Cross-site Scripting (XSS)",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      714.3150024414062,
+      165.6540069580078,
+      729.4290161132812
+    ],
+    "color": 0,
+    "page": 2
+  },
+  {
+    "text": "- Man-in-the-Middle (MitM) Attacks",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      742.6549682617188,
+      199.87496948242188,
+      757.7689819335938
+    ],
+    "color": 0,
+    "page": 2
+  },
+  {
+    "text": "- Denial-of-Service (DoS) and Distributed DoS",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      771.0050048828125,
+      255.5239715576172,
+      786.1190185546875
+    ],
+    "color": 0,
+    "page": 2
+  },
+  {
+    "text": "- Insider Threats and Social Engineering",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      33.9950065612793,
+      227.44097900390625,
+      49.1090087890625
+    ],
+    "color": 0,
+    "page": 3
+  },
+  {
+    "text": "5. Cybersecurity Domains",
+    "font": "Helvetica-Bold",
+    "size": 12.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      89.98001098632812,
+      178.573974609375,
+      106.5040054321289
+    ],
+    "color": 1973880,
+    "page": 3
+  },
+  {
+    "text": "- Network Security",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      119.03498840332031,
+      121.03799438476562,
+      134.14898681640625
+    ],
+    "color": 0,
+    "page": 3
+  },
+  {
+    "text": "- Information Security",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      147.38502502441406,
+      135.72299194335938,
+      162.4990234375
+    ],
+    "color": 0,
+    "page": 3
+  },
+  {
+    "text": "- Application Security",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      175.73500061035156,
+      134.5019989013672,
+      190.8489990234375
+    ],
+    "color": 0,
+    "page": 3
+  },
+  {
+    "text": "- Operational Security",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      204.0750274658203,
+      137.5599822998047,
+      219.18902587890625
+    ],
+    "color": 0,
+    "page": 3
+  },
+  {
+    "text": "- Endpoint Security",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      232.4250030517578,
+      124.11799621582031,
+      247.53900146484375
+    ],
+    "color": 0,
+    "page": 3
+  },
+  {
+    "text": "- Cloud Security",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      260.7650146484375,
+      109.43299865722656,
+      275.8790283203125
+    ],
+    "color": 0,
+    "page": 3
+  },
+  {
+    "text": "- IoT Security",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      289.114990234375,
+      96.59599304199219,
+      304.22900390625
+    ],
+    "color": 0,
+    "page": 3
+  },
+  {
+    "text": "6. Security Architecture",
+    "font": "Helvetica-Bold",
+    "size": 12.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      345.09002685546875,
+      165.90199279785156,
+      361.614013671875
+    ],
+    "color": 1973880,
+    "page": 3
+  },
+  {
+    "text": "Security architecture is the design artifacts that describe how security controls are positioned and how they",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      374.1549987792969,
+      564.1071166992188,
+      389.2690124511719
+    ],
+    "color": 0,
+    "page": 3
+  },
+  {
+    "text": "relate to the overall IT architecture. Key elements include:",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      402.5050048828125,
+      311.8109436035156,
+      417.6190185546875
+    ],
+    "color": 0,
+    "page": 3
+  },
+  {
+    "text": "- Security policies and procedures",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      430.8450012207031,
+      196.8609619140625,
+      445.9590148925781
+    ],
+    "color": 0,
+    "page": 3
+  },
+  {
+    "text": "- Identity and Access Management (IAM)",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      459.19500732421875,
+      230.48794555664062,
+      474.30902099609375
+    ],
+    "color": 0,
+    "page": 3
+  },
+  {
+    "text": "- Security Information and Event Management (SIEM)",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      487.5450134277344,
+      292.8469543457031,
+      502.6590270996094
+    ],
+    "color": 0,
+    "page": 3
+  },
+  {
+    "text": "- Data Loss Prevention (DLP)",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      515.885009765625,
+      174.8499755859375,
+      530.9990234375
+    ],
+    "color": 0,
+    "page": 3
+  },
+  {
+    "text": "- Defense in Depth",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      544.2350463867188,
+      122.89698791503906,
+      559.3490600585938
+    ],
+    "color": 0,
+    "page": 3
+  },
+  {
+    "text": "7. Case Studies of Major Cyber Attacks",
+    "font": "Helvetica-Bold",
+    "size": 12.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      600.2100219726562,
+      253.92198181152344,
+      616.7340698242188
+    ],
+    "color": 1973880,
+    "page": 3
+  },
+  {
+    "text": "- **Equifax (2017):** A breach due to unpatched software that exposed sensitive data of 147 million users.",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      629.2750244140625,
+      546.6170654296875,
+      644.3890380859375
+    ],
+    "color": 0,
+    "page": 3
+  },
+  {
+    "text": "- **WannaCry (2017):** Ransomware attack exploiting a vulnerability in Windows.",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      657.625,
+      427.3108825683594,
+      672.739013671875
+    ],
+    "color": 0,
+    "page": 3
+  },
+  {
+    "text": "- **SolarWinds (2020):** A supply chain attack that compromised several U.S. government agencies.",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      685.9650268554688,
+      520.8770141601562,
+      701.0790405273438
+    ],
+    "color": 0,
+    "page": 3
+  },
+  {
+    "text": "- **Target (2013):** Breach via third-party vendor that affected over 40 million payment card accounts.",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      714.3150024414062,
+      526.3989868164062,
+      729.4290161132812
+    ],
+    "color": 0,
+    "page": 3
+  },
+  {
+    "text": "8. Tools and Technologies in Cybersecurity",
+    "font": "Helvetica-Bold",
+    "size": 12.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      770.2899780273438,
+      279.2659606933594,
+      786.8140258789062
+    ],
+    "color": 1973880,
+    "page": 3
+  },
+  {
+    "text": "- Firewalls (e.g., pfSense, Cisco ASA)",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      33.9950065612793,
+      215.18698120117188,
+      49.1090087890625
+    ],
+    "color": 0,
+    "page": 4
+  },
+  {
+    "text": "- Antivirus and Antimalware (e.g., Bitdefender, Kaspersky)",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      62.34504318237305,
+      313.62591552734375,
+      77.45904541015625
+    ],
+    "color": 0,
+    "page": 4
+  },
+  {
+    "text": "- SIEM Tools (e.g., Splunk, IBM QRadar)",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      90.69502258300781,
+      230.47695922851562,
+      105.80902099609375
+    ],
+    "color": 0,
+    "page": 4
+  },
+  {
+    "text": "- Penetration Testing Tools (e.g., Metasploit, Burp Suite)",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      119.03498840332031,
+      305.6949462890625,
+      134.14898681640625
+    ],
+    "color": 0,
+    "page": 4
+  },
+  {
+    "text": "- Encryption Standards (e.g., AES, RSA)",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      147.38502502441406,
+      228.66197204589844,
+      162.4990234375
+    ],
+    "color": 0,
+    "page": 4
+  },
+  {
+    "text": "- VPNs and Proxies",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      175.73500061035156,
+      127.16499328613281,
+      190.8489990234375
+    ],
+    "color": 0,
+    "page": 4
+  },
+  {
+    "text": "- AI and ML for anomaly detection",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      204.0750274658203,
+      196.2669677734375,
+      219.18902587890625
+    ],
+    "color": 0,
+    "page": 4
+  },
+  {
+    "text": "9. Cyber Laws and Ethics",
+    "font": "Helvetica-Bold",
+    "size": 12.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      260.0500183105469,
+      175.90997314453125,
+      276.5740051269531
+    ],
+    "color": 1973880,
+    "page": 4
+  },
+  {
+    "text": "Cyber laws govern the legal aspects of digital interactions. Examples include:",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      289.114990234375,
+      406.56494140625,
+      304.22900390625
+    ],
+    "color": 0,
+    "page": 4
+  },
+  {
+    "text": "- GDPR (General Data Protection Regulation)",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      317.46502685546875,
+      253.70895385742188,
+      332.57904052734375
+    ],
+    "color": 0,
+    "page": 4
+  },
+  {
+    "text": "- HIPAA (Health Insurance Portability and Accountability Act)",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      345.80499267578125,
+      327.0789794921875,
+      360.91900634765625
+    ],
+    "color": 0,
+    "page": 4
+  },
+  {
+    "text": "- Computer Fraud and Abuse Act (CFAA)",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      374.1549987792969,
+      232.31398010253906,
+      389.2690124511719
+    ],
+    "color": 0,
+    "page": 4
+  },
+  {
+    "text": "- Ethical Hacking: Authorized testing of system defenses",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      402.5050048828125,
+      305.6949768066406,
+      417.6190185546875
+    ],
+    "color": 0,
+    "page": 4
+  },
+  {
+    "text": "- Responsibilities of cybersecurity professionals to uphold integrity and protect users",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      430.8450012207031,
+      440.1809997558594,
+      445.9590148925781
+    ],
+    "color": 0,
+    "page": 4
+  },
+  {
+    "text": "10. Industry Certifications",
+    "font": "Helvetica-Bold",
+    "size": 12.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      486.83001708984375,
+      178.56199645996094,
+      503.35400390625
+    ],
+    "color": 1973880,
+    "page": 4
+  },
+  {
+    "text": "- CompTIA Security+",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      515.885009765625,
+      133.57798767089844,
+      530.9990234375
+    ],
+    "color": 0,
+    "page": 4
+  },
+  {
+    "text": "- Certified Ethical Hacker (CEH)",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      544.2350463867188,
+      186.4329833984375,
+      559.3490600585938
+    ],
+    "color": 0,
+    "page": 4
+  },
+  {
+    "text": "- Certified Information Systems Security Professional (CISSP)",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      572.5850219726562,
+      331.9409484863281,
+      587.6990356445312
+    ],
+    "color": 0,
+    "page": 4
+  },
+  {
+    "text": "- GIAC Security Essentials (GSEC)",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      600.9249877929688,
+      202.3389892578125,
+      616.0390014648438
+    ],
+    "color": 0,
+    "page": 4
+  },
+  {
+    "text": "- Cisco Certified CyberOps Associate",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      629.2750244140625,
+      212.73397827148438,
+      644.3890380859375
+    ],
+    "color": 0,
+    "page": 4
+  },
+  {
+    "text": "- ISO/IEC 27001 Certifications",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      657.625,
+      178.5239715576172,
+      672.739013671875
+    ],
+    "color": 0,
+    "page": 4
+  },
+  {
+    "text": "11. Interview Questions for Chatbot Testing",
+    "font": "Helvetica-Bold",
+    "size": 12.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      713.5999755859375,
+      279.24200439453125,
+      730.1240234375
+    ],
+    "color": 1973880,
+    "page": 4
+  },
+  {
+    "text": "1. What is the CIA triad?",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      742.6549682617188,
+      150.40797424316406,
+      757.7689819335938
+    ],
+    "color": 0,
+    "page": 4
+  },
+  {
+    "text": "2. Name three types of cyber attacks.",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      771.0050048828125,
+      213.38294982910156,
+      786.1190185546875
+    ],
+    "color": 0,
+    "page": 4
+  },
+  {
+    "text": "3. What happened in the SolarWinds attack?",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      33.9950065612793,
+      248.8579559326172,
+      49.1090087890625
+    ],
+    "color": 0,
+    "page": 5
+  },
+  {
+    "text": "4. What does SIEM stand for?",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      62.34504318237305,
+      177.92996215820312,
+      77.45904541015625
+    ],
+    "color": 0,
+    "page": 5
+  },
+  {
+    "text": "5. Define phishing.",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      90.69502258300781,
+      122.29198455810547,
+      105.80902099609375
+    ],
+    "color": 0,
+    "page": 5
+  },
+  {
+    "text": "6. What are some common cybersecurity certifications?",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      119.03498840332031,
+      301.3829345703125,
+      134.14898681640625
+    ],
+    "color": 0,
+    "page": 5
+  },
+  {
+    "text": "7. Explain the concept of 'Zero Trust'.",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      147.38502502441406,
+      212.700927734375,
+      162.4990234375
+    ],
+    "color": 0,
+    "page": 5
+  },
+  {
+    "text": "8. What laws are involved in data protection?",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      175.73500061035156,
+      250.0679473876953,
+      190.8489990234375
+    ],
+    "color": 0,
+    "page": 5
+  },
+  {
+    "text": "9. Which tools are used in penetration testing?",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      204.0750274658203,
+      257.41595458984375,
+      219.18902587890625
+    ],
+    "color": 0,
+    "page": 5
+  },
+  {
+    "text": "10. Describe the role of endpoint security.",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      232.4250030517578,
+      234.17295837402344,
+      247.53900146484375
+    ],
+    "color": 0,
+    "page": 5
+  },
+  {
+    "text": "12. Conclusion and Future Trends",
+    "font": "Helvetica-Bold",
+    "size": 12.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      288.3999938964844,
+      225.22999572753906,
+      304.9239807128906
+    ],
+    "color": 1973880,
+    "page": 5
+  },
+  {
+    "text": "Cybersecurity is an ever-evolving field that is essential in a world increasingly reliant on digital infrastructure.",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      317.46502685546875,
+      564.0939331054688,
+      332.57904052734375
+    ],
+    "color": 0,
+    "page": 5
+  },
+  {
+    "text": "Future trends include the integration of AI and machine learning, advanced threat detection,",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      345.80499267578125,
+      564.10009765625,
+      360.91900634765625
+    ],
+    "color": 0,
+    "page": 5
+  },
+  {
+    "text": "quantum-resistant encryption, and increased focus on personal data privacy. Continuous learning and",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      374.1549987792969,
+      564.0962524414062,
+      389.2690124511719
+    ],
+    "color": 0,
+    "page": 5
+  },
+  {
+    "text": "proactive defense are key to staying ahead of evolving threats.",
+    "font": "Helvetica",
+    "size": 11.0,
+    "is_bold": false,
+    "is_italic": false,
+    "is_underlined": false,
+    "bbox": [
+      31.190000534057617,
+      402.5050048828125,
+      336.29693603515625,
+      417.6190185546875
+    ],
+    "color": 0,
+    "page": 5
+  }
+]
