@@ -15,11 +15,11 @@ def get_base64_image(image_path):
 st.set_page_config(
     page_title="Intellexis: Specialized PDF Text Navigator",
     layout="centered",
-    page_icon="Assets/icon.ico"
+    page_icon="Source Code/Assets/icon.ico"
 )
 
 # Encode logo to base64
-logo_base64 = get_base64_image("Assets/logo.png")
+logo_base64 = get_base64_image("Source Code/Assets/logo.png")
 
 # Inline logo + single-line title
 st.markdown(
